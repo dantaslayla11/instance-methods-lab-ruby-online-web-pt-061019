@@ -7,6 +7,9 @@ class Dog
   end
 end
  
+ class Dog
+   def sit 
+     puts 
  
 fido = Dog.new
 fido.bark 
